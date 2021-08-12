@@ -20,6 +20,7 @@ I am not responsible for any crash, error and bugs but I am always here to help 
 Credits
 ******************************************
 Vehicle Dev Authors (UV Template, original 3D models):
+2008 Sterling Firetruck - Roulge
 2010 Dodge Charger - PSource
 2011 CVPI - Thehurk
 2013 Chevrolet Caprice - dbanker, MiikeMQ, Elf1234, & me (whoever "me" is)
