@@ -2387,7 +2387,7 @@
     <Item>
       <modelName>sheriff2</modelName>
       <txdName>sheriff2</txdName>
-      <handlingId>FBI2</handlingId>
+      <handlingId>sheriff2</handlingId>
       <gameName>SHERIFF2</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
