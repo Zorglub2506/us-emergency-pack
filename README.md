@@ -77,3 +77,16 @@ Drop 'ELS' folder's content in : (no need to use OpenIV)
 Have fun !
 
 
+******************************************
+WARNING
+******************************************
+This pack includes a vehicles.meta file. It modifies critical vehicles properties. Please install it to avoid crashes and bugs. 
+Indeed, the police bike is replaced by a car in our pack.
+If you want to uninstall this pack, please go to the original game folder, copy the original vehicles.meta and paste it in your modded folder.
+
+Original vehicles.meta's location : (OpenIV)
+	GTA V > update > update.rpf > common > data > levels > gta5
+
+Modded vehicles.meta's location : (OpenIV)
+	GTA V > mods > update > update.rpf > common > data > levels > gta5
+
