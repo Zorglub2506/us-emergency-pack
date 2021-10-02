@@ -6,7 +6,7 @@
       <Item>
       <modelName>dilettante2</modelName>
       <txdName>dilettante2</txdName>
-      <handlingId>DILETTANTE2</handlingId>
+      <handlingId>2016 Ford Explorer (Brinks Security)</handlingId>
       <gameName>Brinks Security Cruiser</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
@@ -125,7 +125,7 @@
       <modelName>pranger</modelName>
       <txdName>pranger</txdName>
       <handlingId>PRANGER</handlingId>
-      <gameName>PRANGER</gameName>
+      <gameName>2017 Chevrolet Silverado PPV</gameName>
       <vehicleMakeName>DECLASSE</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -271,7 +271,7 @@
       <modelName>firetruk</modelName>
       <txdName>firetruk</txdName>
       <handlingId>FIRETRUK</handlingId>
-      <gameName>FIRETRUK</gameName>
+      <gameName>2008 Sterling Fire Truck</gameName>
       <vehicleMakeName>MTL</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -391,7 +391,7 @@
       <modelName>policet</modelName>
       <txdName>policet</txdName>
       <handlingId>POLICET</handlingId>
-      <gameName>POLICET</gameName>
+      <gameName>2016 Chevy Express PPV</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -519,7 +519,7 @@
         <modelName>fbi</modelName>
         <txdName>fbi</txdName>
         <handlingId>FBI</handlingId>
-        <gameName>FBI</gameName>
+        <gameName>2014 Dodge Charger Pursuit (N.O.o.S.E.)</gameName>
         <vehicleMakeName />
         <expressionDictName>null</expressionDictName>
         <expressionName>null</expressionName>
@@ -653,7 +653,7 @@
         <modelName>fbi2</modelName>
         <txdName>fbi2</txdName>
         <handlingId>FBI2</handlingId>
-        <gameName>FBI2</gameName>
+        <gameName>2014 Chevy Tahoe (N.O.o.S.E.)</gameName>
         <vehicleMakeName />
         <expressionDictName>null</expressionDictName>
         <expressionName>null</expressionName>
@@ -787,7 +787,7 @@
       <modelName>police</modelName>
       <txdName>police</txdName>
       <handlingId>POLICE</handlingId>
-      <gameName>POLICE</gameName>
+      <gameName>2011 Ford CVPI</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -917,7 +917,7 @@
       <modelName>police4</modelName>
       <txdName>police4</txdName>
       <handlingId>POLICE</handlingId>
-      <gameName>POLICE4</gameName>
+      <gameName>2016 Chevy Impala 9C1</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -1047,7 +1047,7 @@
       <modelName>police2</modelName>
       <txdName>police2</txdName>
       <handlingId>POLICE2</handlingId>
-      <gameName>POLICE2</gameName>
+      <gameName>2014 Dodge Charger Pursuit</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -1193,7 +1193,7 @@
       <modelName>police3</modelName>
       <txdName>police3</txdName>
       <handlingId>POLICE3</handlingId>
-      <gameName>POLICE</gameName>
+      <gameName>2018 Dodge Durango Pursuit</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -1339,7 +1339,7 @@
       <modelName>policeold1</modelName>
       <txdName>policeold1</txdName>
       <handlingId>POLICEOLD</handlingId>
-      <gameName>POLICEO1</gameName>
+      <gameName>2018 Dodge Charger Pursuit</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -1460,7 +1460,7 @@
       <modelName>policeold2</modelName>
       <txdName>policeold2</txdName>
       <handlingId>POLICEOL2</handlingId>
-      <gameName>POLICEO2</gameName>
+      <gameName>2016 Ford Explorer Police Interceptor</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -1591,7 +1591,7 @@
       <modelName>ambulance</modelName>
       <txdName>ambulance</txdName>
       <handlingId>AMBULAN</handlingId>
-      <gameName>AMBULAN</gameName>
+      <gameName>2018 Ford XLT F350 SuperDuty Ambulance</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -1718,7 +1718,7 @@
       <modelName>polmav</modelName>
       <txdName>polmav</txdName>
       <handlingId>POLMAV</handlingId>
-      <gameName>POLMAV</gameName>
+      <gameName>Tactical Air Support</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -1846,7 +1846,7 @@
       <modelName>pbus</modelName>
       <txdName>pbus</txdName>
       <handlingId>PBUS</handlingId>
-      <gameName>PBUS</gameName>
+      <gameName>Police Command Unit (N.O.o.S.E.)</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -1966,7 +1966,7 @@
       <modelName>lguard</modelName>
       <txdName>lguard</txdName>
       <handlingId>LGUARD</handlingId>
-      <gameName>LGUARD</gameName>
+      <gameName>2017 Chevrolet Silverado EPV (Lifeguard)</gameName>
       <vehicleMakeName>DECLASSE</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -2096,7 +2096,7 @@
       <modelName>policeb</modelName>
       <txdName>policeb</txdName>
       <handlingId>POLICEB</handlingId>
-      <gameName>POLICEB</gameName>
+      <gameName>2010 Dodge Charger Pursuit</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -2213,8 +2213,8 @@
       <needsRopeTexture value="false" />
       <requiredExtras />
       <rewards>
-        <Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
-        <Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
+        <Item>REWARD_WEAPON_CARBINERIFLE</Item>
+        <Item>REWARD_AMMO_CARBINERIFLE</Item>
         <Item>REWARD_STAT_WEAPON</Item>
       </rewards>
       <cinematicPartCamera>
@@ -2238,7 +2238,7 @@
       <modelName>sheriff</modelName>
       <txdName>sheriff</txdName>
       <handlingId>SHERIFF</handlingId>
-      <gameName>SHERIFF</gameName>
+      <gameName>Chevrolet Caprice PPV</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -2388,7 +2388,7 @@
       <modelName>sheriff2</modelName>
       <txdName>sheriff2</txdName>
       <handlingId>sheriff2</handlingId>
-      <gameName>SHERIFF2</gameName>
+      <gameName>Ford F-150 Police Interceptor</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -19570,7 +19570,7 @@
       <modelName>riot</modelName>
       <txdName>riot</txdName>
       <handlingId>RIOT</handlingId>
-      <gameName>RIOT</gameName>
+      <gameName>Lenco Bearcat (NFS edition)</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
