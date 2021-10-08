@@ -916,8 +916,8 @@
     <Item>
       <modelName>police4</modelName>
       <txdName>police4</txdName>
-      <handlingId>POLICE</handlingId>
-      <gameName>2016 Chevy Impala 9C1</gameName>
+      <handlingId>POLICE4</handlingId>
+      <gameName>2011 Ford CVPI Unmarked</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -1001,7 +1001,7 @@
       <frequency value="100" />
       <swankness>SWANKNESS_1</swankness>
       <maxNum value="2" />
-      <flags>FLAG_EXTRAS_REQUIRE FLAG_LAW_ENFORCEMENT FLAG_EMERGENCY_SERVICE FLAG_DONT_SPAWN_IN_CARGEN FLAG_HAS_INTERIOR_EXTRAS</flags>
+      <flags>FLAG_EXTRAS_REQUIRE FLAG_LAW_ENFORCEMENT FLAG_EMERGENCY_SERVICE FLAG_DONT_SPAWN_IN_CARGEN FLAG_HAS_INTERIOR_EXTRAS FLAG_HAS_LIVERY</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
 	  <dashboardType>VDT_GENTAXI</dashboardType>
@@ -1012,6 +1012,14 @@
       <drivers>
         <Item>
           <driverName>S_M_Y_Cop_01</driverName>
+          <npcName />
+        </Item>
+        <Item>
+          <driverName>S_M_Y_SWAT_01</driverName>
+          <npcName />
+        </Item>
+        <Item>
+          <driverName>S_M_M_CIASEC_01</driverName>
           <npcName />
         </Item>
       </drivers>
