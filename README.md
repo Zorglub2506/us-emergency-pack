@@ -59,7 +59,7 @@ If you have any questions/suggestions, contact me here : https://discord.gg/bbFc
 Installation
 ******************************************
 Drop 'vehicle.rpf' folder's content in : (OpenIV)
-	GTA V > mods > update > x64 > dlcpacks > patchday24ng > dlc.rpf > x64 > levels > gta5 > vehicle.rpf
+	GTA V > mods > update > x64 > dlcpacks > patchday25ng > dlc.rpf > x64 > levels > gta5 > vehicle.rpf
 
 Drop 'data' folder's content in : (OpenIV)
 	GTA V > mods > update > update.rpf > common > data
