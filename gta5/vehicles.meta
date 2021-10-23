@@ -3,11 +3,11 @@
   <residentTxd>vehshare</residentTxd>
   <residentAnims />
   <InitDatas>
-      <Item>
+    <Item>
       <modelName>dilettante2</modelName>
       <txdName>dilettante2</txdName>
-      <handlingId>2016 Ford Explorer (Brinks Security)</handlingId>
-      <gameName>Brinks Security Cruiser</gameName>
+      <handlingId>DILETTANTE2</handlingId>
+      <gameName>DILETTANTE2</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -125,7 +125,7 @@
       <modelName>pranger</modelName>
       <txdName>pranger</txdName>
       <handlingId>PRANGER</handlingId>
-      <gameName>2017 Chevrolet Silverado PPV</gameName>
+      <gameName>PRANGER</gameName>
       <vehicleMakeName>DECLASSE</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -271,7 +271,7 @@
       <modelName>firetruk</modelName>
       <txdName>firetruk</txdName>
       <handlingId>FIRETRUK</handlingId>
-      <gameName>2008 Sterling Fire Truck</gameName>
+      <gameName>FIRETRUK</gameName>
       <vehicleMakeName>MTL</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -391,7 +391,7 @@
       <modelName>policet</modelName>
       <txdName>policet</txdName>
       <handlingId>POLICET</handlingId>
-      <gameName>2016 Chevy Express PPV</gameName>
+      <gameName>POLICET</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -519,7 +519,7 @@
         <modelName>fbi</modelName>
         <txdName>fbi</txdName>
         <handlingId>FBI</handlingId>
-        <gameName>2014 Dodge Charger Pursuit (N.O.o.S.E.)</gameName>
+        <gameName>FBI</gameName>
         <vehicleMakeName />
         <expressionDictName>null</expressionDictName>
         <expressionName>null</expressionName>
@@ -653,7 +653,7 @@
         <modelName>fbi2</modelName>
         <txdName>fbi2</txdName>
         <handlingId>FBI2</handlingId>
-        <gameName>2014 Chevy Tahoe (N.O.o.S.E.)</gameName>
+        <gameName>FBI2</gameName>
         <vehicleMakeName />
         <expressionDictName>null</expressionDictName>
         <expressionName>null</expressionName>
@@ -737,7 +737,7 @@
         <frequency value="100" />
         <swankness>SWANKNESS_1</swankness>
         <maxNum value="999" />
-        <flags>FLAG_LAW_ENFORCEMENT FLAG_DONT_SPAWN_IN_CARGEN FLAG_IS_OFFROAD_VEHICLE FLAG_HAS_INTERIOR_EXTRAS</flags>
+        <flags>FLAG_LAW_ENFORCEMENT FLAG_DONT_SPAWN_IN_CARGEN FLAG_IS_OFFROAD_VEHICLE FLAG_HAS_INTERIOR_EXTRAS FLAG_HAS_LIVERY</flags>
         <type>VEHICLE_TYPE_CAR</type>
         <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
       <dashboardType>VDT_CAVALCADE</dashboardType>
@@ -783,11 +783,11 @@
         <Item>RANGER_PRANGER_REAR_RIGHT</Item>
         </firstPersonDrivebyData>
     </Item>
-        <Item>
+    <Item>
       <modelName>police</modelName>
       <txdName>police</txdName>
       <handlingId>POLICE</handlingId>
-      <gameName>2011 Ford CVPI</gameName>
+      <gameName>POLICE</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -917,7 +917,7 @@
       <modelName>police4</modelName>
       <txdName>police4</txdName>
       <handlingId>POLICE4</handlingId>
-      <gameName>2011 Ford CVPI Unmarked</gameName>
+      <gameName>POLICE4</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -1055,7 +1055,7 @@
       <modelName>police2</modelName>
       <txdName>police2</txdName>
       <handlingId>POLICE2</handlingId>
-      <gameName>2014 Dodge Charger Pursuit</gameName>
+      <gameName>POLICE2</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -1201,7 +1201,7 @@
       <modelName>police3</modelName>
       <txdName>police3</txdName>
       <handlingId>POLICE3</handlingId>
-      <gameName>2018 Dodge Durango Pursuit</gameName>
+      <gameName>POLICE3</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -1347,7 +1347,7 @@
       <modelName>policeold1</modelName>
       <txdName>policeold1</txdName>
       <handlingId>POLICEOLD</handlingId>
-      <gameName>2018 Dodge Charger Pursuit</gameName>
+      <gameName>POLICEOLD</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -1468,7 +1468,7 @@
       <modelName>policeold2</modelName>
       <txdName>policeold2</txdName>
       <handlingId>POLICEOL2</handlingId>
-      <gameName>2016 Ford Explorer Police Interceptor</gameName>
+      <gameName>POLICEOL2</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -1595,11 +1595,11 @@
         <Item>STD_POLICE2_REAR_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
-        <Item>
+    <Item>
       <modelName>ambulance</modelName>
       <txdName>ambulance</txdName>
       <handlingId>AMBULAN</handlingId>
-      <gameName>2018 Ford XLT F350 SuperDuty Ambulance</gameName>
+      <gameName>AMBULAN</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -1722,11 +1722,11 @@
         <Item>VAN_BOXVILLE_REAR_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
-        <Item>
+    <Item>
       <modelName>polmav</modelName>
       <txdName>polmav</txdName>
       <handlingId>POLMAV</handlingId>
-      <gameName>Tactical Air Support</gameName>
+      <gameName>POLMAV</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -1850,11 +1850,11 @@
       </firstPersonDrivebyData>
 	  <lockOnPositionOffset x="0.000000" y="0.600000" z="-0.100000" />
     </Item>
-        <Item>
+    <Item>
       <modelName>pbus</modelName>
       <txdName>pbus</txdName>
       <handlingId>PBUS</handlingId>
-      <gameName>Police Command Unit (N.O.o.S.E.)</gameName>
+      <gameName>PBUS</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -1970,11 +1970,11 @@
       <Item>RANGER_PRANGER_REAR_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
-        <Item>
+    <Item>
       <modelName>lguard</modelName>
       <txdName>lguard</txdName>
       <handlingId>LGUARD</handlingId>
-      <gameName>2017 Chevrolet Silverado EPV (Lifeguard)</gameName>
+      <gameName>LGUARD</gameName>
       <vehicleMakeName>DECLASSE</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -2100,11 +2100,11 @@
         <Item>RANGER_PRANGER_REAR_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
-        <Item>
+    <Item>
       <modelName>policeb</modelName>
       <txdName>policeb</txdName>
       <handlingId>POLICEB</handlingId>
-      <gameName>2010 Dodge Charger Pursuit</gameName>
+      <gameName>POLICEB</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -2242,11 +2242,11 @@
         <Item>STD_POLICE2_REAR_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
-        <Item>
+    <Item>
       <modelName>sheriff</modelName>
       <txdName>sheriff</txdName>
       <handlingId>SHERIFF</handlingId>
-      <gameName>Chevrolet Caprice PPV</gameName>
+      <gameName>SHERIFF</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -2396,7 +2396,7 @@
       <modelName>sheriff2</modelName>
       <txdName>sheriff2</txdName>
       <handlingId>sheriff2</handlingId>
-      <gameName>Ford F-150 Police Interceptor</gameName>
+      <gameName>SHERIFF2</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
