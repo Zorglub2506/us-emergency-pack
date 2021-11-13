@@ -1,4 +1,4 @@
-# us-emergency-pack
+# Los Santos emergency vehicles pack
 American emergency pack. Replaces every emergency vehicle in GTA V (except police boat).
 
 ******************************************
