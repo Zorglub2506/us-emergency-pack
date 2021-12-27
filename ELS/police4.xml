@@ -102,7 +102,7 @@
 	<SECL LightingFormat="leds" DisableAtLstg3="true" >
 		<PresetPatterns>
 			<Lstg1 Enabled="true" Pattern="121" />
-			<Lstg2 Enabled="true" Pattern="122" />
+			<Lstg2 Enabled="true" Pattern="27" />
 			<Lstg3 Enabled="true" Pattern="5" />
 		</PresetPatterns>
 		<ForcedPatterns>
@@ -112,7 +112,7 @@
 			<SrnTone3 Enabled="false" Pattern="0" />
 			<SrnTone4 Enabled="false" Pattern="0" />
 			<PanicMde Enabled="false" Pattern="0" />
-			<OutOfVeh Enabled="false" Pattern="0" />
+			<OutOfVeh Enabled="true" Pattern="121" />
 		</ForcedPatterns>
 		<ScanPatternCustomPool Enabled="false" Sequential="true" >
 			<Pattern>0</Pattern>

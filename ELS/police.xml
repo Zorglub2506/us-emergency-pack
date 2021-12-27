@@ -101,9 +101,9 @@
 	<!-- SECL -->
 	<SECL LightingFormat="traf" DisableAtLstg3="true" >
 		<PresetPatterns>
-			<Lstg1 Enabled="true" Pattern="4" />
-			<Lstg2 Enabled="true" Pattern="16" />
-			<Lstg3 Enabled="ture" Pattern="1" />
+			<Lstg1 Enabled="true" Pattern="21" />
+			<Lstg2 Enabled="true" Pattern="27" />
+			<Lstg3 Enabled="ture" Pattern="4" />
 		</PresetPatterns>
 		<ForcedPatterns>
 			<MainHorn Enabled="false" Pattern="0" />
@@ -112,7 +112,7 @@
 			<SrnTone3 Enabled="false" Pattern="0" />
 			<SrnTone4 Enabled="false" Pattern="0" />
 			<PanicMde Enabled="false" Pattern="0" />
-			<OutOfVeh Enabled="true" Pattern="26" />
+			<OutOfVeh Enabled="true" Pattern="31" />
 		</ForcedPatterns>
 		<ScanPatternCustomPool Enabled="false" Sequential="true" >
 			<Pattern>0</Pattern>

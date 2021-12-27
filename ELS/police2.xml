@@ -101,8 +101,8 @@
 	<!-- SECL -->
 	<SECL LightingFormat="traf" DisableAtLstg3="true" >
 		<PresetPatterns>
-			<Lstg1 Enabled="true" Pattern="19" />
-			<Lstg2 Enabled="true" Pattern="19" />
+			<Lstg1 Enabled="true" Pattern="21" />
+			<Lstg2 Enabled="true" Pattern="27" />
 			<Lstg3 Enabled="ture" Pattern="4" />
 		</PresetPatterns>
 		<ForcedPatterns>
