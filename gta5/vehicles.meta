@@ -27009,7 +27009,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash />
+      <audioNameHash>FBI</audioNameHash>
       <layout>LAYOUT_STANDARD</layout>
       <coverBoundOffsets>BUFFALO_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
